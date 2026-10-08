@@ -1,6 +1,7 @@
 {
   "name": "GT3 Fundo",
   "description": "Teste de plugin",
-  "authors": [{ "name": "Seu nome" }],
-  "main": "index.js"
+  "authors": [{ "name": "MatheusPietroHaridade" }],
+  "main": "index.js",
+  "hash": "1"
 }
