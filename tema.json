@@ -1,0 +1,33 @@
+{
+  "spec": 2,
+  "name": "GT3 RS",
+  "description": "Cinza névoa com laranja, inspirado no 911 GT3 RS",
+  "authors": [{ "name": "MatheusPietroHaridade" }],
+  "semanticColors": {
+    "HEADER_PRIMARY": ["#ffffff"],
+    "HEADER_SECONDARY": ["#b9bcc0"],
+    "TEXT_NORMAL": ["#ececec"],
+    "TEXT_MUTED": ["#9a9da2"],
+    "TEXT_LINK": ["#f5a01a"],
+    "INTERACTIVE_NORMAL": ["#b9bcc0"],
+    "INTERACTIVE_HOVER": ["#ffffff"],
+    "INTERACTIVE_ACTIVE": ["#f5a01a"],
+    "INTERACTIVE_MUTED": ["#6f7276"],
+    "BACKGROUND_PRIMARY": ["#1a1c1f"],
+    "BACKGROUND_SECONDARY": ["#232629"],
+    "BACKGROUND_SECONDARY_ALT": ["#232629"],
+    "BACKGROUND_TERTIARY": ["#141517"],
+    "BACKGROUND_ACCENT": ["#2d3135"],
+    "BACKGROUND_MOBILE_PRIMARY": ["#1a1c1f"],
+    "BACKGROUND_MOBILE_SECONDARY": ["#232629"],
+    "BACKGROUND_NESTED_FLOATING": ["#232629"],
+    "BACKGROUND_MESSAGE_HOVER": ["#2d3135"],
+    "BACKGROUND_MODIFIER_HOVER": ["#2d3135"],
+    "BACKGROUND_MODIFIER_SELECTED": ["#3a3e43"]
+  },
+  "background": {
+    "url": "https://raw.githubusercontent.com/SEU_USUARIO/meu-tema/main/fundo.jpg",
+    "blur": 2,
+    "alpha": 0.5
+  }
+}
